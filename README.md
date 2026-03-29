@@ -23,6 +23,10 @@ Clone this repository or download the project files.
 Open the project in a Java IDE such as IntelliJ IDEA, Eclipse (IDE), or NetBeans.
 Compile and run the main Java file.
 The Tic-Tac-Toe game window will open.
+Future Improvements
+- Add single-player mode
+- Add score tracking
+- Improve UI colors
 🎯 Learning Objectives
 
 This project helps in understanding:
